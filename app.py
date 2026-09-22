@@ -124,9 +124,11 @@ Approximate target:
 
     st.caption("🤖 AI Model")
 
-   st.write(
-    "DeepSeek V4.1 Flash"
-)
+   st.caption("🤖 AI Model")
+
+    st.write(
+        "DeepSeek V4.1 Flash"
+    )
 
     st.caption("📑 Report Style")
 
