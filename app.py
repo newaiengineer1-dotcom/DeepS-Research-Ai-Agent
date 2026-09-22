@@ -76,7 +76,6 @@ st.markdown(
 # ============================================================
 
 with st.sidebar:
-
     st.header("⚙️ Report Settings")
 
     max_pages = st.slider(
@@ -122,7 +121,7 @@ Approximate target:
 
     st.markdown("---")
 
-   st.caption("🤖 AI Model")
+    st.caption("🤖 AI Model")
     st.write("DeepSeek V4.1 Flash")
 
     st.caption("📑 Report Style")
