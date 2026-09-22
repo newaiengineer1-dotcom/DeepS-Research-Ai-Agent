@@ -122,19 +122,11 @@ Approximate target:
 
     st.markdown("---")
 
-    st.caption("🤖 AI Model")
-
    st.caption("🤖 AI Model")
-
-    st.write(
-        "DeepSeek V4.1 Flash"
-    )
+    st.write("DeepSeek V4.1 Flash")
 
     st.caption("📑 Report Style")
-
-    st.write(
-        "Professional / Consulting / Technical"
-    )
+    st.write("Professional / Consulting / Technical")
 
 
 # ============================================================
