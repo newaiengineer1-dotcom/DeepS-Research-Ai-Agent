@@ -124,9 +124,9 @@ Approximate target:
 
     st.caption("🤖 AI Model")
 
-    st.write(
-        "Google Gemini 3.6 Flash"
-    )
+   st.write(
+    "DeepSeek V4.1 Flash"
+)
 
     st.caption("📑 Report Style")
 
