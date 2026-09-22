@@ -1,5 +1,10 @@
+from crewai import Agent, Task, Crew, LLM
+import os
+import re
+
+
 # ============================================================
-# DEEPSEEK CONFIGURATION
+# DEEPSEEK V4.1 FLASH
 # ============================================================
 
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
